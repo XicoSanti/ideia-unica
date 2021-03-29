@@ -1,6 +1,8 @@
 import { useState } from 'react'
 
 function Home() {
-    return <div>BEM VINDO AO ANÍSIO REFRIGERAÇÃO</div>
+    return <div>
+        <h1>BEM VINDOS AO ANISIO REFRIGERAÇÃO!</h1>
+    </div>
 }
 export default Home
